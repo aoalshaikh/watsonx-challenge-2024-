@@ -42,7 +42,7 @@ If the Title field is enabled for an object type, use the following conventions:
 - The object ID must meet the requirements for object names.
 - The maximum length of an object Title is 4,000 characters.
 
-### Report performance
+### Optimize Report performance
   - Filtering Top Level Business Entities: To improve the performance of a report,
     all reports should either have a prompt that filters to a specific business entity
     or a filter that scopes the report by the top level business entity or entities.
@@ -62,7 +62,7 @@ If the Title field is enabled for an object type, use the following conventions:
   - The Use for Parameter Info Setting: You can set the Use for Parameter Info property on all query subjects.
   
 
-### Creating a Report Graph
+### Creating Graphs in a Report
 1. To create a new chart report, complete the following steps.
   - Select the Pie, Donut Chart grouping.
   - Select the Pie chart type.
